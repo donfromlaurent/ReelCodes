@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReelCodes
+- 👋 Hi, I’m Jonny @devs.
 - 👀 I’m interested in becoming a game developer and software engineer.
 - 🌱 I’m currently learning JavaScript and python languages.
 - 💞️ I’m looking to collaborate on building various programming projects escepecially websites and softwares.
